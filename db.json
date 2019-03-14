@@ -1,27 +1,120 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" },
-    { "id": 1, "name": "Alice" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "users": [
-	  { "id": 0, "login": "admin", "password": "admin", "name": "Administrator", "type": "admin", "img": "https://png.pngtree.com/svg/20170808/292fd6a99e.png" },
-    	  { "id": 1, "login": "login1", "password": "password", "name": "Mark Powers", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 2, "login": "login2", "password": "password", "name": "Jhon Lowish", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 3, "login": "login3", "password": "password", "name": "Bob Dummy", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 4, "login": "login4", "password": "password", "name": "Alice Parker", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 5, "login": "login5", "password": "password", "name": "Molly Sheton", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 6, "login": "login6", "password": "password", "name": "Tony Stark", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 7, "login": "login7", "password": "password", "name": "Steve Rodgers", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 8, "login": "login8", "password": "password", "name": "Emily Blant", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
-	  { "id": 9, "login": "login9", "password": "password", "name": "Nata Romanoff", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" }
+    {
+      "id": 0,
+      "email": "admin@mail.com",
+      "password": "admin",
+      "name": "Administrator",
+      "type": "admin",
+      "img": "https://png.pngtree.com/svg/20170808/292fd6a99e.png"
+    },
+    {
+      "id": 1,
+      "email": "email1@mail.com",
+      "password": "password",
+      "name": "Mark Powers",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 2,
+      "email": "email2@mail.com",
+      "password": "password",
+      "name": "Jhon Lowish",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 3,
+      "email": "email3@mail.com",
+      "password": "password",
+      "name": "Bob Dummy",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 4,
+      "email": "email4@mail.com",
+      "password": "password",
+      "name": "Alice Parker",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 5,
+      "email": "email5@mail.com",
+      "password": "password",
+      "name": "Molly Sheton",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 6,
+      "email": "email6@mail.com",
+      "password": "password",
+      "name": "Tony Stark",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 7,
+      "email": "email7@mail.com",
+      "password": "password",
+      "name": "Steve Rodgers",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 8,
+      "email": "email8@mail.com",
+      "password": "password",
+      "name": "Emily Blant",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "id": 9,
+      "email": "email9@mail.com",
+      "password": "password",
+      "name": "Nata Romanoff",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+    },
+    {
+      "email": "admkfkd@maol.ru",
+      "password": "ddddd",
+      "name": "vasya",
+      "id": 10
+    },
+    {
+      "email": "adrg@fg",
+      "password": "sdfgb",
+      "name": "adfb",
+      "id": 11
+    },
+    {
+      "email": "email9@mail.com",
+      "password": "password",
+      "name": "Nata Romanoffff",
+      "id": 12
+    },
+    {
+      "email": "email99@mail.com",
+      "password": "password",
+      "name": "Nick",
+      "id": 13
+    },
+    {
+      "email": "email999@mail.com",
+      "password": "password",
+      "name": "All",
+      "id": 14
+    },
+    {
+      "email": "valentino93@list.ru",
+      "password": "password",
+      "name": "Valik",
+      "id": 15
+    }
   ]
 }
