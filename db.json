@@ -13,8 +13,8 @@
     "name": "typicode"
   },
   "users": [
-		{ "id": 0, "login": "admin", "password": "admin", "name": "Administrator", "type": "admin", "img": "https://png.pngtree.com/svg/20170808/292fd6a99e.png" },
-    { "id": 1, "login": "login1", "password": "password", "name": "Mark Powers", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
+	  { "id": 0, "login": "admin", "password": "admin", "name": "Administrator", "type": "admin", "img": "https://png.pngtree.com/svg/20170808/292fd6a99e.png" },
+    	  { "id": 1, "login": "login1", "password": "password", "name": "Mark Powers", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
 	  { "id": 2, "login": "login2", "password": "password", "name": "Jhon Lowish", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
 	  { "id": 3, "login": "login3", "password": "password", "name": "Bob Dummy", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
 	  { "id": 4, "login": "login4", "password": "password", "name": "Alice Parker", "type": "user", "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png" },
