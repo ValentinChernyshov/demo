@@ -3,7 +3,7 @@
     {
       "id": 0,
       "email": "admin@mail.com",
-      "password": "admin",
+      "password": "admin@mail.com",
       "name": "Administrator",
       "type": "admin",
       "img": "https://png.pngtree.com/svg/20170808/292fd6a99e.png"
@@ -11,42 +11,42 @@
     {
       "id": 1,
       "email": "email1@mail.com",
-      "password": "password",
-      "name": "Mark Powers",
+      "password": "email1@mail.com",
+      "name": "Chris Pratt",
       "type": "user",
-      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+      "img": "https://u.kanobu.ru/editor/images/31/ea252534-80c9-465b-a2ba-8722276699b4.jpg"
     },
     {
       "id": 2,
       "email": "email2@mail.com",
       "password": "password",
-      "name": "Jhon Lowish",
+      "name": "Scarlett Johansson",
       "type": "user",
-      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+      "img": "https://i.ytimg.com/vi/w24IKp7udvo/maxresdefault.jpg"
     },
     {
       "id": 3,
       "email": "email3@mail.com",
       "password": "password",
-      "name": "Bob Dummy",
+      "name": "Chris Evans",
       "type": "user",
-      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+      "img": "https://fortunedotcom.files.wordpress.com/2016/12/gettyimages-524622586.jpg"
     },
     {
       "id": 4,
       "email": "email4@mail.com",
       "password": "password",
-      "name": "Alice Parker",
+      "name": "Gwyneth Paltrow",
       "type": "user",
-      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+      "img": "https://www.hellomagazine.com/imagenes/celebrities/2018042448086/gwyneth-paltrow-brad-falchuk-romance-first-adult-relationship/0-238-948/gwyneth-paltrow-t.jpg"
     },
     {
       "id": 5,
       "email": "email5@mail.com",
       "password": "password",
-      "name": "Molly Sheton",
+      "name": "Tom Hiddleston",
       "type": "user",
-      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png"
+      "img": "https://www.gannett-cdn.com/-mm-/c3503c20111c08be82decc67fb2dd1980c36f117/c=0-0-4630-6174/local/-/media/2016/03/22/USATODAY/USATODAY/635942607794733294-XXX-TOM-HIDDLESTON0135-80692278.JPG?width=534&height=712&fit=crop"
     },
     {
       "id": 6,
@@ -84,37 +84,63 @@
       "email": "admkfkd@maol.ru",
       "password": "ddddd",
       "name": "vasya",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
       "id": 10
     },
     {
       "email": "adrg@fg",
       "password": "sdfgb",
       "name": "adfb",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
       "id": 11
     },
     {
-      "email": "email9@mail.com",
-      "password": "password",
-      "name": "Nata Romanoffff",
+      "email": "asd@asd",
+      "password": "asd@asd",
+      "name": "asd@asd",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
       "id": 12
     },
     {
-      "email": "email99@mail.com",
-      "password": "password",
-      "name": "Nick",
-      "id": 13
-    },
-    {
-      "email": "email999@mail.com",
-      "password": "password",
-      "name": "All",
+      "email": "qweqwe@qweqwe",
+      "password": "qweqwe@qweqwe",
+      "name": "qweqwe@qweqwe",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
       "id": 14
     },
     {
-      "email": "valentino93@list.ru",
-      "password": "password",
-      "name": "Valik",
+      "name": "aazxczxc@zxczxc",
+      "email": "aazxczxc@zxczxc",
+      "password": "aazxczxc@zxczxc",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
       "id": 15
+    },
+    {
+      "email": "admin@mail.comssss",
+      "password": "admin@mail.comssss",
+      "name": "admin@mail.comssss",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
+      "id": 16
+    },
+    {
+      "email": "asd@asdasd",
+      "password": "asd@asdasd",
+      "name": "asd@asdasd",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
+      "id": 17
+    },
+    {
+      "name": "srgsradmin@mail.com",
+      "email": "srgsradmin@mail.com",
+      "password": "srgsradmin@mail.com",
+      "type": "user",
+      "img": "https://png.pngtree.com/svg/20161229/292fd6b69e.png",
+      "id": 18
     }
   ]
 }
